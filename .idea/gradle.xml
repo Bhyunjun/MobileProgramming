@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/broadcast" />
+            <option value="$PROJECT_DIR$/dolldressup" />
+            <option value="$PROJECT_DIR$/eweek04a" />
+            <option value="$PROJECT_DIR$/eweek05a" />
+            <option value="$PROJECT_DIR$/eweek06a" />
+            <option value="$PROJECT_DIR$/eweek07a" />
+            <option value="$PROJECT_DIR$/eweek07b" />
+            <option value="$PROJECT_DIR$/week09" />
+            <option value="$PROJECT_DIR$/week10" />
+            <option value="$PROJECT_DIR$/week12" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
